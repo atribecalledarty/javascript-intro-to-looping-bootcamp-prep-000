@@ -9,4 +9,9 @@ function forLoop (array){
   return array
 }
 
-functio
+function whileLoop(number){
+  while (number >= 0 ){
+    console.log (number)
+  }
+  return done
+}
